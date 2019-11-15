@@ -18,6 +18,7 @@ import java.util.Date;
 @Table(name = "tb_people")
 public class People {
 
+
     @Id
     @GeneratedValue
     private Long id;
