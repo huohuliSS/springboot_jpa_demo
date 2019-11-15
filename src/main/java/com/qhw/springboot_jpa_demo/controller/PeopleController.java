@@ -70,5 +70,9 @@ public class PeopleController {
     }
 
 
+//    分支测试
+    public void test(){
+        System.out.println("555565656");
+    }
 
 }
